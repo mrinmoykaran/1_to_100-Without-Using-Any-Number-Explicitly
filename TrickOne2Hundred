@@ -1,0 +1,21 @@
+
+public class TrickOne2Hundred {
+	
+	public static void main(String[] args)
+	{
+		//Print 1 to 100  Without writing explicit number in program
+		
+		int start[]= {0};
+		int end[]= {0,0,0,0,0,0,0,0,0,0};
+		
+		for(int i=start.length ; i<=(end.length)*(end.length); i++)
+		{
+			System.out.print("["+i+"]");
+		}
+		
+	}
+
+}
+//Language  : Java
+//IDE       : Eclips
+//Codded By : Mrinmoy Karan
