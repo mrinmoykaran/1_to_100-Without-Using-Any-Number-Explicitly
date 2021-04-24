@@ -1,7 +1,5 @@
 
 public class TrickOne2Hundred {
-	
-
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		char[] _init= {'M'};
@@ -10,11 +8,7 @@ public class TrickOne2Hundred {
 		{
 			System.out.println("["+i+"]");
 		}
-
 	}
-
-
-
 }
 //Language  : Java
 //IDE       : Eclips
