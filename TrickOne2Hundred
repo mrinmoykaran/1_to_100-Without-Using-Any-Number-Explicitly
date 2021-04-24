@@ -1,19 +1,19 @@
 
 public class TrickOne2Hundred {
 	
-	public static void main(String[] args)
-	{
-		//Print 1 to 100  Without writing explicit number in program
-		
-		int start[]= {0};
-		int end[]= {0,0,0,0,0,0,0,0,0,0};
-		
-		for(int i=start.length ; i<=(end.length)*(end.length); i++)
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		char[] _init= {'M'};
+		char[] temp= {'m','r','i','n','m','o','y','k','a','r'};
+		for (int i=_init.length;i<=(temp.length*temp.length);i++)
 		{
-			System.out.print("["+i+"]");
+			System.out.println("["+i+"]");
 		}
-		
+
 	}
+
+
 
 }
 //Language  : Java
